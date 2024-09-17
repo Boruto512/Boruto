@@ -1,0 +1,2 @@
+# Boruto
+Bot free
